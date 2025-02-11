@@ -1080,123 +1080,123 @@ var atCodes = {
   ],
   BY: [
     {
-      code: "A0880 / BLY Serv Manager Tr / COP 5133250.42360444",
+      code: "A0880 / BLY Serv Manager Tr / COP 5133250.42",
       value: 5133250.42360444,
     },
     {
-      code: "A0890 / BLY Tech Architect Tr / COP 5133250.42360444",
+      code: "A0890 / BLY Tech Architect Tr / COP 5133250.42",
       value: 5133250.42360444,
     },
     {
-      code: "A0870 / BLY Tech Consultant Tr / COP 5133250.42360444",
+      code: "A0870 / BLY Tech Consultant Tr / COP 5133250.42",
       value: 5133250.42360444,
     },
     {
-      code: "A0900 / BLY Func Architect Tr / COP 6007526.65146894",
+      code: "A0900 / BLY Func Architect Tr / COP 6007526.65",
       value: 6007526.65146894,
     },
     {
-      code: "A0910 / BLY Func Consultant Tr / COP 6007526.65146894",
+      code: "A0910 / BLY Func Consultant Tr / COP 6007526.65",
       value: 6007526.65146894,
     },
     {
-      code: "A0891 / BLY Tech Architect Bg / COP 6798355.65422838",
+      code: "A0891 / BLY Tech Architect Bg / COP 6798355.65",
       value: 6798355.65422838,
     },
     {
-      code: "A0881 / BLY Serv Manager Bg / COP 6915695.11751604",
+      code: "A0881 / BLY Serv Manager Bg / COP 6915695.11",
       value: 6915695.11751604,
     },
     {
-      code: "A0871 / BLY Tech Consultant Bg / COP 7932068.48711352",
+      code: "A0871 / BLY Tech Consultant Bg / COP 7932068.48",
       value: 7932068.48711352,
     },
     {
-      code: "A0860 / BLY Tech Leader Tr / COP 8037096.46615439",
+      code: "A0860 / BLY Tech Leader Tr / COP 8037096.46",
       value: 8037096.46615439,
     },
     {
-      code: "A0901 / BLY Func Architect Bg / COP 8444774.99848326",
+      code: "A0901 / BLY Func Architect Bg / COP 8444774.99",
       value: 8444774.99848326,
     },
     {
-      code: "A0911 / BLY Func Consultant Bg / COP 8444774.99848326",
+      code: "A0911 / BLY Func Consultant Bg / COP 8444774.99",
       value: 8444774.99848326,
     },
     {
-      code: "A0892 / BLY Tech Architect Jr / COP 8701455.074425",
+      code: "A0892 / BLY Tech Architect Jr / COP 8701455.07",
       value: 8701455.074425,
     },
     {
-      code: "A0882 / BLY Serv Manager Jr / COP 8796793.38834622",
+      code: "A0882 / BLY Serv Manager Jr / COP 8796793.38",
       value: 8796793.38834622,
     },
     {
-      code: "A0861 / BLY Tech Leader Bg / COP 11106914.0718219",
+      code: "A0861 / BLY Tech Leader Bg / COP 11106914.07",
       value: 11106914.0718219,
     },
     {
-      code: "A0872 / BLY Tech Consultant Jr / COP 11305578.0566335",
+      code: "A0872 / BLY Tech Consultant Jr / COP 11305578.05",
       value: 11305578.0566335,
     },
     {
-      code: "A0902 / BLY Func Architect Jr / COP 11312258.1325753",
+      code: "A0902 / BLY Func Architect Jr / COP 11312258.13",
       value: 11312258.1325753,
     },
     {
-      code: "A0912 / BLY Func Consultant Jr / COP 11312258.1325753",
+      code: "A0912 / BLY Func Consultant Jr / COP 11312258.13",
       value: 11312258.1325753,
     },
     {
-      code: "A0883 / BLY Serv Manager Pr / COP 11836618.859142",
+      code: "A0883 / BLY Serv Manager Pr / COP 11836618.85",
       value: 11836618.859142,
     },
     {
-      code: "A0873 / BLY Tech Consultant Pr / COP 13624056.0185766",
+      code: "A0873 / BLY Tech Consultant Pr / COP 13624056.01",
       value: 13624056.0185766,
     },
     {
-      code: "A0893 / BLY Tech Architect Pr / COP 13922691.2692274",
+      code: "A0893 / BLY Tech Architect Pr / COP 13922691.26",
       value: 13922691.2692274,
     },
     {
-      code: "A0903 / BLY Func Architect Pr / COP 14700435.1350063",
+      code: "A0903 / BLY Func Architect Pr / COP 14700435.13",
       value: 14700435.1350063,
     },
     {
-      code: "A0913 / BLY Func Consultant Pr / COP 14700435.1350063",
+      code: "A0913 / BLY Func Consultant Pr / COP 14700435.13",
       value: 14700435.1350063,
     },
     {
-      code: "A0862 / BLY Tech Leader Jr / COP 15719821.7223177",
+      code: "A0862 / BLY Tech Leader Jr / COP 15719821.72",
       value: 15719821.7223177,
     },
     {
-      code: "A0874 / BLY Tech Consultant Sr / COP 16630879.7653227",
+      code: "A0874 / BLY Tech Consultant Sr / COP 16630879.76",
       value: 16630879.7653227,
     },
     {
-      code: "A0884 / BLY Serv Manager Sr / COP 16634417.0851102",
+      code: "A0884 / BLY Serv Manager Sr / COP 16634417.08",
       value: 16634417.0851102,
     },
     {
-      code: "A0904 / BLY Func Architect Sr / COP 19122666.1576597",
+      code: "A0904 / BLY Func Architect Sr / COP 19122666.15",
       value: 19122666.1576597,
     },
     {
-      code: "A0914 / BLY Func Consultant Sr / COP 19122666.1576597",
+      code: "A0914 / BLY Func Consultant Sr / COP 19122666.15",
       value: 19122666.1576597,
     },
     {
-      code: "A0894 / BLY Tech Architect Sr / COP 19572666.1576596",
+      code: "A0894 / BLY Tech Architect Sr / COP 19572666.15",
       value: 19572666.1576596,
     },
     {
-      code: "A0875 / BLY Tech Consultant Ex / COP 21271445.0791148",
+      code: "A0875 / BLY Tech Consultant Ex / COP 21271445.07",
       value: 21271445.0791148,
     },
     {
-      code: "A0863 / BLY Tech Leader Pr / COP 22760189.5195769",
+      code: "A0863 / BLY Tech Leader Pr / COP 22760189.51",
       value: 22760189.5195769,
     },
     {
@@ -1204,145 +1204,145 @@ var atCodes = {
       value: 22825579.18,
     },
     {
-      code: "A0895 / BLY Tech Architect Ex / COP 24658968.4410321",
+      code: "A0895 / BLY Tech Architect Ex / COP 24658968.44",
       value: 24658968.4410321,
     },
     {
-      code: "A0905 / BLY Func Architect Ex / COP 24908968.441032",
+      code: "A0905 / BLY Func Architect Ex / COP 24908968.44",
       value: 24908968.441032,
     },
     {
-      code: "A0915 / BLY Func Consultant Ex / COP 24908968.441032",
+      code: "A0915 / BLY Func Consultant Ex / COP 24908968.44",
       value: 24908968.441032,
     },
     {
-      code: "A0864 / BLY Tech Leader Sr / COP 31465310.9522296",
+      code: "A0864 / BLY Tech Leader Sr / COP 31465310.95",
       value: 31465310.9522296,
     },
     {
-      code: "A0865 / BLY Tech Leader Ex / COP 38327112.4608241",
+      code: "A0865 / BLY Tech Leader Ex / COP 38327112.46",
       value: 38327112.4608241,
     },
   ],
   "BY GDC": [
     {
-      code: "A0880 / BLY Serv Manager Tr / COP 5133250.42360444",
+      code: "A0880 / BLY Serv Manager Tr / COP 5133250.42",
       value: 5133250.42360444,
     },
     {
-      code: "A0890 / BLY Tech Architect Tr / COP 5133250.42360444",
+      code: "A0890 / BLY Tech Architect Tr / COP 5133250.42",
       value: 5133250.42360444,
     },
     {
-      code: "A0870 / BLY Tech Consultant Tr / COP 5133250.42360444",
+      code: "A0870 / BLY Tech Consultant Tr / COP 5133250.42",
       value: 5133250.42360444,
     },
     {
-      code: "A0900 / BLY Func Architect Tr / COP 6007526.65146894",
+      code: "A0900 / BLY Func Architect Tr / COP 6007526.65",
       value: 6007526.65146894,
     },
     {
-      code: "A0910 / BLY Func Consultant Tr / COP 6007526.65146894",
+      code: "A0910 / BLY Func Consultant Tr / COP 6007526.65",
       value: 6007526.65146894,
     },
     {
-      code: "A0891 / BLY Tech Architect Bg / COP 6798355.65422838",
+      code: "A0891 / BLY Tech Architect Bg / COP 6798355.65",
       value: 6798355.65422838,
     },
     {
-      code: "A0881 / BLY Serv Manager Bg / COP 6915695.11751604",
+      code: "A0881 / BLY Serv Manager Bg / COP 6915695.11",
       value: 6915695.11751604,
     },
     {
-      code: "A0871 / BLY Tech Consultant Bg / COP 7932068.48711352",
+      code: "A0871 / BLY Tech Consultant Bg / COP 7932068.48",
       value: 7932068.48711352,
     },
     {
-      code: "A0860 / BLY Tech Leader Tr / COP 8037096.46615439",
+      code: "A0860 / BLY Tech Leader Tr / COP 8037096.46",
       value: 8037096.46615439,
     },
     {
-      code: "A0901 / BLY Func Architect Bg / COP 8444774.99848326",
+      code: "A0901 / BLY Func Architect Bg / COP 8444774.99",
       value: 8444774.99848326,
     },
     {
-      code: "A0911 / BLY Func Consultant Bg / COP 8444774.99848326",
+      code: "A0911 / BLY Func Consultant Bg / COP 8444774.99",
       value: 8444774.99848326,
     },
     {
-      code: "A0892 / BLY Tech Architect Jr / COP 8701455.074425",
+      code: "A0892 / BLY Tech Architect Jr / COP 8701455.07",
       value: 8701455.074425,
     },
     {
-      code: "A0882 / BLY Serv Manager Jr / COP 8796793.38834622",
+      code: "A0882 / BLY Serv Manager Jr / COP 8796793.38",
       value: 8796793.38834622,
     },
     {
-      code: "A0861 / BLY Tech Leader Bg / COP 11106914.0718219",
+      code: "A0861 / BLY Tech Leader Bg / COP 11106914.07",
       value: 11106914.0718219,
     },
     {
-      code: "A0872 / BLY Tech Consultant Jr / COP 11305578.0566335",
+      code: "A0872 / BLY Tech Consultant Jr / COP 11305578.05",
       value: 11305578.0566335,
     },
     {
-      code: "A0902 / BLY Func Architect Jr / COP 11312258.1325753",
+      code: "A0902 / BLY Func Architect Jr / COP 11312258.13",
       value: 11312258.1325753,
     },
     {
-      code: "A0912 / BLY Func Consultant Jr / COP 11312258.1325753",
+      code: "A0912 / BLY Func Consultant Jr / COP 11312258.13",
       value: 11312258.1325753,
     },
     {
-      code: "A0883 / BLY Serv Manager Pr / COP 11836618.859142",
+      code: "A0883 / BLY Serv Manager Pr / COP 11836618.85",
       value: 11836618.859142,
     },
     {
-      code: "A0873 / BLY Tech Consultant Pr / COP 13624056.0185766",
+      code: "A0873 / BLY Tech Consultant Pr / COP 13624056.01",
       value: 13624056.0185766,
     },
     {
-      code: "A0893 / BLY Tech Architect Pr / COP 13922691.2692274",
+      code: "A0893 / BLY Tech Architect Pr / COP 13922691.26",
       value: 13922691.2692274,
     },
     {
-      code: "A0903 / BLY Func Architect Pr / COP 14700435.1350063",
+      code: "A0903 / BLY Func Architect Pr / COP 14700435.13",
       value: 14700435.1350063,
     },
     {
-      code: "A0913 / BLY Func Consultant Pr / COP 14700435.1350063",
+      code: "A0913 / BLY Func Consultant Pr / COP 14700435.13",
       value: 14700435.1350063,
     },
     {
-      code: "A0862 / BLY Tech Leader Jr / COP 15719821.7223177",
+      code: "A0862 / BLY Tech Leader Jr / COP 15719821.72",
       value: 15719821.7223177,
     },
     {
-      code: "A0874 / BLY Tech Consultant Sr / COP 16630879.7653227",
+      code: "A0874 / BLY Tech Consultant Sr / COP 16630879.76",
       value: 16630879.7653227,
     },
     {
-      code: "A0884 / BLY Serv Manager Sr / COP 16634417.0851102",
+      code: "A0884 / BLY Serv Manager Sr / COP 16634417.08",
       value: 16634417.0851102,
     },
     {
-      code: "A0904 / BLY Func Architect Sr / COP 19122666.1576597",
+      code: "A0904 / BLY Func Architect Sr / COP 19122666.15",
       value: 19122666.1576597,
     },
     {
-      code: "A0914 / BLY Func Consultant Sr / COP 19122666.1576597",
+      code: "A0914 / BLY Func Consultant Sr / COP 19122666.15",
       value: 19122666.1576597,
     },
     {
-      code: "A0894 / BLY Tech Architect Sr / COP 19572666.1576596",
+      code: "A0894 / BLY Tech Architect Sr / COP 19572666.15",
       value: 19572666.1576596,
     },
     {
-      code: "A0875 / BLY Tech Consultant Ex / COP 21271445.0791148",
+      code: "A0875 / BLY Tech Consultant Ex / COP 21271445.07",
       value: 21271445.0791148,
     },
     {
-      code: "A0863 / BLY Tech Leader Pr / COP 22760189.5195769",
+      code: "A0863 / BLY Tech Leader Pr / COP 22760189.51",
       value: 22760189.5195769,
     },
     {
@@ -1350,87 +1350,87 @@ var atCodes = {
       value: 22825579.18,
     },
     {
-      code: "A0895 / BLY Tech Architect Ex / COP 24658968.4410321",
+      code: "A0895 / BLY Tech Architect Ex / COP 24658968.44",
       value: 24658968.4410321,
     },
     {
-      code: "A0905 / BLY Func Architect Ex / COP 24908968.441032",
+      code: "A0905 / BLY Func Architect Ex / COP 24908968.44",
       value: 24908968.441032,
     },
     {
-      code: "A0915 / BLY Func Consultant Ex / COP 24908968.441032",
+      code: "A0915 / BLY Func Consultant Ex / COP 24908968.44",
       value: 24908968.441032,
     },
     {
-      code: "A0864 / BLY Tech Leader Sr / COP 31465310.9522296",
+      code: "A0864 / BLY Tech Leader Sr / COP 31465310.95",
       value: 31465310.9522296,
     },
     {
-      code: "A0865 / BLY Tech Leader Ex / COP 38327112.4608241",
+      code: "A0865 / BLY Tech Leader Ex / COP 38327112.46",
       value: 38327112.4608241,
     },
   ],
   DIGITAL: [
     {
-      code: "A0760 / Digital Developer Tr / COP 3164968.67595955",
+      code: "A0760 / Digital Developer Tr / COP 3164968.67",
       value: 3164968.67595955,
     },
     {
-      code: "A0801 / Digital Analyst Bg / COP 3362735.912448",
+      code: "A0801 / Digital Analyst Bg / COP 3362735.91",
       value: 3362735.912448,
     },
     {
-      code: "A0761 / Digital Developer Bg / COP 4304222.12204741",
+      code: "A0761 / Digital Developer Bg / COP 4304222.12",
       value: 4304222.12204741,
     },
     {
-      code: "A0821 / Digital Leader Bg / COP 5968021.98788347",
+      code: "A0821 / Digital Leader Bg / COP 5968021.98",
       value: 5968021.98788347,
     },
     {
-      code: "A0802 / Digital Analyst Jr / COP 6028398.288",
+      code: "A0802 / Digital Analyst Jr / COP 6028398.28",
       value: 6028398.288,
     },
     { code: "A0752 / Digital Designer Jr / COP 6046112.16", value: 6046112.16 },
     {
-      code: "A0762 / Digital Developer Jr / COP 6239295.71460545",
+      code: "A0762 / Digital Developer Jr / COP 6239295.71",
       value: 6239295.71460545,
     },
     {
-      code: "A0831 / Digital Manager Bg / COP 6863225.28606599",
+      code: "A0831 / Digital Manager Bg / COP 6863225.28",
       value: 6863225.28606599,
     },
     {
-      code: "A0822 / Digital Leader Jr / COP 6896453.83516003",
+      code: "A0822 / Digital Leader Jr / COP 6896453.83",
       value: 6896453.83516003,
     },
     {
-      code: "A0803 / Digital Analyst Pr / COP 7053225.99696",
+      code: "A0803 / Digital Analyst Pr / COP 7053225.99",
       value: 7053225.99696,
     },
     {
-      code: "A0823 / Digital Leader Pr / COP 7957429.82972098",
+      code: "A0823 / Digital Leader Pr / COP 7957429.82",
       value: 7957429.82972098,
     },
     {
-      code: "A0804 / Digital Analyst Sr / COP 8252274.4164432",
+      code: "A0804 / Digital Analyst Sr / COP 8252274.41",
       value: 8252274.4164432,
     },
     { code: "A0753 / Digital Designer Pr / COP 8478148.8", value: 8478148.8 },
     {
-      code: "A0763 / Digital Developer Pr / COP 9114958.06970919",
+      code: "A0763 / Digital Developer Pr / COP 9114958.06",
       value: 9114958.06970919,
     },
     {
-      code: "A0824 / Digital Leader Sr / COP 9283702.15769357",
+      code: "A0824 / Digital Leader Sr / COP 9283702.15",
       value: 9283702.15769357,
     },
     {
-      code: "A0832 / Digital Manager Jr / COP 9437086.60197365",
+      code: "A0832 / Digital Manager Jr / COP 9437086.60",
       value: 9437086.60197365,
     },
     {
-      code: "A0805 / Digital Analyst Ex / COP 9655161.06723854",
+      code: "A0805 / Digital Analyst Ex / COP 9655161.06",
       value: 9655161.06723854,
     },
     {
@@ -1438,19 +1438,19 @@ var atCodes = {
       value: 11114062.08,
     },
     {
-      code: "A0792 / Digital Architect Jr / COP 11805571.536",
+      code: "A0792 / Digital Architect Jr / COP 11805571.53",
       value: 11805571.536,
     },
     {
-      code: "A0825 / Digital Leader Ex / COP 12092908.3838811",
+      code: "A0825 / Digital Leader Ex / COP 12092908.38",
       value: 12092908.3838811,
     },
     {
-      code: "A0764 / Digital Developer Sr / COP 12163215.5363664",
+      code: "A0764 / Digital Developer Sr / COP 12163215.53",
       value: 12163215.5363664,
     },
     {
-      code: "A0755 / Digital Designer Ex / COP 13520389.889065",
+      code: "A0755 / Digital Designer Ex / COP 13520389.88",
       value: 13520389.889065,
     },
     {
@@ -1458,28 +1458,28 @@ var atCodes = {
       value: 13593447.12,
     },
     {
-      code: "A0782 / DigitalSpecialist Jr / COP 13864555.4285767",
+      code: "A0782 / DigitalSpecialist Jr / COP 13864555.42",
       value: 13864555.4285767,
     },
     {
-      code: "A0793 / Digital Architect Pr / COP 14295218.36688",
+      code: "A0793 / Digital Architect Pr / COP 14295218.36",
       value: 14295218.36688,
     },
     {
-      code: "A0765 / Digital Developer Ex / COP 14323433.7647136",
+      code: "A0765 / Digital Developer Ex / COP 14323433.76",
       value: 14323433.7647136,
     },
     {
-      code: "A0783 / DigitalSpecialist Pr / COP 16704283.6488875",
+      code: "A0783 / DigitalSpecialist Pr / COP 16704283.64",
       value: 16704283.6488875,
     },
     { code: "A0834 / Digital Manager Sr / COP 17730583.2", value: 17730583.2 },
     {
-      code: "A0794 / Digital Architect Sr / COP 18911955.86016",
+      code: "A0794 / Digital Architect Sr / COP 18911955.86",
       value: 18911955.86016,
     },
     {
-      code: "A0784 / DigitalSpecialist Sr / COP 20125642.9504669",
+      code: "A0784 / DigitalSpecialist Sr / COP 20125642.95",
       value: 20125642.9504669,
     },
     {
@@ -1487,25 +1487,25 @@ var atCodes = {
       value: 21867719.28,
     },
     {
-      code: "A0795 / Digital Architect Ex / COP 23247674.472",
+      code: "A0795 / Digital Architect Ex / COP 23247674.47",
       value: 23247674.472,
     },
     {
-      code: "A0785 / DigitalSpecialist Ex / COP 24247762.590924",
+      code: "A0785 / DigitalSpecialist Ex / COP 24247762.59",
       value: 24247762.590924,
     },
   ],
   "DIGITAL GDC": [
     {
-      code: "A0750 / Digital Designer Tr / COP 3127464.74806128",
+      code: "A0750 / Digital Designer Tr / COP 3127464.74",
       value: 3127464.74806128,
     },
     {
-      code: "A0760 / Digital Developer Tr / COP 3551850.76970882",
+      code: "A0760 / Digital Developer Tr / COP 3551850.76",
       value: 3551850.76970882,
     },
     {
-      code: "A0761 / Digital Developer Bg / COP 4331525.3289132",
+      code: "A0761 / Digital Developer Bg / COP 4331525.32",
       value: 4331525.3289132,
     },
     {
