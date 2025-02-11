@@ -1,0 +1,231 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  /* Elimina los márgenes por defecto */
+  background-color: #f3f3f3;
+  color: #1e3a56;
+  font-family: Arial, sans-serif;
+}
+
+.check {
+  position: relative;
+  width: 50px;
+  height: 25px;
+  appearance: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.check:before {
+  content: '';
+  position: absolute;
+  width: 35px;
+  height: 17px;
+  background: #333;
+  border-radius: 25px;
+  transition: 0.25s;
+}
+
+/*Interruptor*/
+.contrato {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* Asegura el centrado horizontal dentro del div */
+  gap: 8px;
+  /* Espaciado entre los elementos */
+  text-align: center;
+}
+
+.check:after {
+  content: '';
+  position: absolute;
+  width: 17px;
+  height: 17px;
+  background: #fff;
+  border-radius: 50%;
+  border: 2px solid #333;
+  top: 0;
+  left: 0;
+  transition: 0.25s;
+  box-sizing: border-box;
+}
+
+.check:checked:after {
+  left: 17px;
+  border: 2px solid blue;
+}
+
+.check:checked:before {
+  background: blue;
+}
+
+
+/*Inputs*/
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+select {
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+button {
+  padding: 8px 16px;
+  background-color: #1e3a56;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+#result {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#currency-converter {
+  margin-top: 40px;
+}
+
+input[type="date"] {
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+#currency-converter h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#currency-converter input,
+#currency-converter select {
+  width: 120px;
+  /* Ajusta este valor según el tamaño que desees */
+  padding: 8px;
+  /* Puedes ajustar el relleno también si lo prefieres */
+  font-size: 14px;
+  /* Ajusta el tamaño de la fuente si es necesario */
+  margin: 5px 0;
+  /* Añade algo de margen para que no se vean tan pegados */
+}
+
+#conversionResult {
+  font-size: 16px;
+  font-weight: bold;
+  color: #1e3a56;
+}
+
+.checkbox-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 8px;
+}
+
+#employee-form .checkbox-container input[type="checkbox"] {
+  margin-right: 5px;
+  /* Espaciado más ajustado entre checkbox y etiqueta */
+}
+
+#employee-form .checkbox-container label {
+  font-size: 14px;
+  /* Ajusta el tamaño de texto si es necesario */
+  margin: 0;
+  /* Elimina márgenes extra */
+  padding: 0;
+  /* Elimina rellenos extra */
+}
+
+
+/* Media query para pantallas de hasta 450px de ancho */
+@media only screen and (max-width: 450px) {
+  body {
+    flex-direction: column;
+    justify-content: flex-start;
+    height: auto;
+    padding: 10px;
+    overflow-y: auto;
+    /* Habilita el scroll si el contenido es muy largo */
+  }
+
+  .container {
+    width: 100%;
+    max-width: 450px;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+
+  h1 {
+    font-size: 26px;
+    margin-bottom: 15px;
+  }
+
+  input[type="text"],
+  select {
+    width: 100%;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+
+  button {
+    width: 100%;
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .checkbox-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 8px;
+	}
+		
+	.checkbox3 {
+		grid-row-start: 2;
+	}
+
+	.checkbox4 {
+		grid-row-start: 2;
+	}
+	
+	#employee-form .checkbox-container label {
+    display: flex;
+    align-items: center; /* Centra verticalmente el checkbox con el texto */
+    font-size: 14px; /* Tamaño del texto */
+    gap: 8px; /* Espacio entre el checkbox y el texto */
+    margin: 0;
+    justify-content: center; /* Alinea el texto a la izquierda dentro de su celda */
+  }
+  
+  #employee-form .checkbox-container input[type="checkbox"] {
+    transform: scale(1.5); /* Ajusta el tamaño del checkbox */
+    margin: 0; /* Sin margen adicional */
+  }
+
+
+  #currency-converter {
+    margin-top: 20px;
+  }
+}
