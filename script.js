@@ -214,7 +214,7 @@ function calculateCost() {
               result.innerHTML = `El costo total del empleado es: $${formatNumber(
                 cost
               )}. <br> <br>
-                                AT para ${selectedDepartment}: ${nextAT}. / USD $${costInUSD} (USD Calculado con la tasa de cambio del ${formattedDate}).
+                                AT para ${selectedDepartment}: ${nextAT} / USD $${costInUSD} (USD Calculado con la tasa de cambio del ${formattedDate}).
                                 <br> <br> Recargo nocturno mensual $${formatNumber(Math.trunc(nightSurcharge))}
                                 <br> <br> Recargo festivo mensual $${formatNumber(Math.trunc(holidaySurcharge))}`;
             })
@@ -223,7 +223,7 @@ function calculateCost() {
               result.innerHTML = `El costo total del empleado es: $${formatNumber(
                 cost
               )}. <br> <br>
-                             AT para ${selectedDepartment}: ${nextAT}. No se pudo calcular el equivalente en dólares.
+                             AT para ${selectedDepartment}: ${nextAT} No se pudo calcular el equivalente en dólares.
                              <br> <br> Recargo nocturno mensual $${formatNumber(Math.trunc(nightSurcharge))}
                                 <br> <br> Recargo festivo mensual $${formatNumber(Math.trunc(holidaySurcharge))}`;
             });
