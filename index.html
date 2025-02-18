@@ -12,7 +12,7 @@
 <body>
 	<div class="container">
 		<h1>Calculadora de Costos Softtek 2025</h1>
-		<p>Ult. actualización 11/FEB/2025</p>
+		<p>Ult. actualización 19/FEB/2025</p>
 
 		<div class="interruptor">
 			<div class="contrato">
@@ -63,12 +63,25 @@
 					</script>
 					<!-- Selector de franja horaria -->
 					<div id="time-range-inputs">
-						<label for="start-time">Hora de Inicio:</label>
+						<label for="start-time">Hora Ingreso:</label>
 						<input type="time" id="start-time" name="start-time" value="08:00">
-						<label for="end-time">Hora de Salida:</label>
+						<label for="end-time">Hora Salida:</label>
 						<input type="time" id="end-time" name="end-time" value="17:00">
 					</div>
 				</div>
+				<br>
+				<div class="checkbox1" id="festivos-container">
+					<div class="checkBoxFestivo1">
+						<input type="checkbox" id="festivos" name="festivos">
+						<label for="festivos">Recargo Festivo</label>
+					</div>
+					<br>
+					<div class="checkBoxFestivo2">
+						<input type="checkbox" id="compensados" name="compensados">
+						<label for="compensados">Compensado</label>
+					</div>
+				</div>
+
 
 				<!-- Input para Subcontractor -->
 				<div id="subcontractor-input" style="display: none;">
@@ -136,6 +149,8 @@
 				<button type="button" onclick="calculateCost()">Calcular</button>
 			</form>
 			<div id="result"></div>
+
+			<hr>
 
 			<div id="currency-converter">
 				<h3>Conversor de Moneda</h3>

@@ -1,14 +1,16 @@
 body {
   display: flex;
-  justify-content: center;
+  flex-direction: column; /* Asegura que los elementos fluyan verticalmente */
   align-items: center;
-  height: 100vh;
-  margin: 0;
-  /* Elimina los márgenes por defecto */
+  justify-content: flex-start; /* Evita que todo se centre verticalmente */
+  min-height: 100vh; /* Permite crecer más allá de la pantalla */
+  margin: 0; /* Elimina márgenes por defecto */
   background-color: #f3f3f3;
   color: #1e3a56;
   font-family: Arial, sans-serif;
+  overflow-y: auto; /* Asegura que se pueda hacer scroll si el contenido es grande */
 }
+
 
 .check {
   position: relative;
@@ -112,6 +114,14 @@ input[type="date"] {
   border: 1px solid #ccc;
   border-radius: 4px;
   font-size: 14px;
+}
+
+input[type="time"] {
+  padding: 6px;
+  margin-bottom: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 12px;
 }
 
 #currency-converter h3 {
